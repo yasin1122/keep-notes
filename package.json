@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s03mgbt",
+  "description": "https://scrimba.com/javascript-deep-dive-c0a/~038/s0qlmufc0m/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
